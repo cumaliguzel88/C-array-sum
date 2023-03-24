@@ -1,0 +1,8 @@
+C:\Users\Cumax\OneDrive\Masaüstü\C# ALL FİLE\05.03.2023\DİZİLER ÖRENKLER\DİZİLER ÖRENKLER\bin\Debug\DİZİLER ÖRENKLER.exe.config
+C:\Users\Cumax\OneDrive\Masaüstü\C# ALL FİLE\05.03.2023\DİZİLER ÖRENKLER\DİZİLER ÖRENKLER\bin\Debug\DİZİLER ÖRENKLER.exe
+C:\Users\Cumax\OneDrive\Masaüstü\C# ALL FİLE\05.03.2023\DİZİLER ÖRENKLER\DİZİLER ÖRENKLER\bin\Debug\DİZİLER ÖRENKLER.pdb
+C:\Users\Cumax\OneDrive\Masaüstü\C# ALL FİLE\05.03.2023\DİZİLER ÖRENKLER\DİZİLER ÖRENKLER\obj\Debug\DİZİLER ÖRENKLER.csproj.AssemblyReference.cache
+C:\Users\Cumax\OneDrive\Masaüstü\C# ALL FİLE\05.03.2023\DİZİLER ÖRENKLER\DİZİLER ÖRENKLER\obj\Debug\DİZİLER ÖRENKLER.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cumax\OneDrive\Masaüstü\C# ALL FİLE\05.03.2023\DİZİLER ÖRENKLER\DİZİLER ÖRENKLER\obj\Debug\DİZİLER ÖRENKLER.csproj.CoreCompileInputs.cache
+C:\Users\Cumax\OneDrive\Masaüstü\C# ALL FİLE\05.03.2023\DİZİLER ÖRENKLER\DİZİLER ÖRENKLER\obj\Debug\DİZİLER ÖRENKLER.exe
+C:\Users\Cumax\OneDrive\Masaüstü\C# ALL FİLE\05.03.2023\DİZİLER ÖRENKLER\DİZİLER ÖRENKLER\obj\Debug\DİZİLER ÖRENKLER.pdb
